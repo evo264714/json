@@ -1,0 +1,110 @@
+[
+      {
+        "id": 1,
+        "company_logo": "/src/assets/logo/google-1-1 1-1.png",
+        "job_title": "Software Engineer",
+        "company_name": "Google",
+        "remote_or_onsite": "Remote",
+        "location": "New York, NY",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$120,000 - $150,000",
+        "job_description": "We are seeking a talented software engineer to join our team.",
+        "job_responsibility": "Design and implement scalable software systems.",
+        "educational_requirements": "Bachelor's or higher degree in Computer Science or related field",
+        "experiences": "At least 5 years of experience in software engineering",
+        "contact_information": {
+          "phone": "123-456-7890",
+          "email": "jobs@google.com"
+        }
+      },
+      {
+        "id": 2,
+        "company_logo": "/src/assets/Logo/netflix-4 1.png",
+        "job_title": "Product Manager",
+        "company_name": "Netflix",
+        "remote_or_onsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$130,000 - $160,000",
+        "job_description": "We are looking for a skilled product manager to lead...",
+        "job_responsibility": "Define product roadmap, prioritize features, and work with cross-functional teams...",
+        "educational_requirements": "Bachelor's or higher degree in Business, Marketing or related field",
+        "experiences": "At least 7 years of experience in product management",
+        "contact_information": {
+          "phone": "555-555-5555",
+          "email": "jobs@netflix.com"
+        }
+      },
+      {
+        "id": 3,
+        "company_logo": "/src/assets/Logo/tesla-9 1.png",
+        "job_title": "Data Scientist",
+        "company_name": "Tesla",
+        "remote_or_onsite": "Remote",
+        "location": "Boston, MA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$100,000 - $130,000",
+        "job_description": "We are seeking a data scientist to join our growing team...",
+        "job_responsibility": "Design and implement machine learning models...",
+        "educational_requirements": "Master's or higher degree in Computer Science, Statistics or related field",
+        "experiences": "At least 3 years of experience in data science",
+        "contact_information": {
+          "phone": "999-999-9999",
+          "email": "jobs@tesla.com"
+        }
+      },
+      {
+        "id": 4,
+        "company_logo": "/src/assets/Logo/google-1-1 1.png",
+        "job_title": "Marketing Specialist",
+        "company_name": "Google",
+        "remote_or_onsite": "Onsite",
+        "location": "Los Angeles, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "job_description": "We are looking for a marketing specialist to drive...",
+        "job_responsibility": "Develop marketing strategies and campaigns...",
+        "educational_requirements": "Bachelor's or higher degree in Marketing, Business or related field",
+        "experiences": "At least 3 years of experience in marketing",
+        "contact_information": {
+            "phone": "999-999-9999",
+            "email": "jobs@google.com"
+        }
+    },  
+      {
+        "id": 5,
+        "company_logo": "/src/assets/Logo/netflix-4 1.png",
+        "job_title": "Marketing Specialist",
+        "company_name": "Netflix",
+        "remote_or_onsite": "Onsite",
+        "location": "Los Angeles, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$30,000 - $100,000",
+        "job_description": "We are looking for a marketing specialist to drive...",
+        "job_responsibility": "Develop marketing strategies and campaigns...",
+        "educational_requirements": "Bachelor's or higher degree in Marketing, Business or related field",
+        "experiences": "At least 3 years of experience in marketing",
+        "contact_information": {
+            "phone": "999-999-9999",
+            "email": "jobs@netflix.com"
+        }
+    },  
+      {
+        "id": 6,
+        "company_logo": "/src/assets/Logo/tesla-9 1.png",
+        "job_title": "Marketing Specialist",
+        "company_name": "Tesla",
+        "remote_or_onsite": "Onsite",
+        "location": "Los Angeles, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$90,000 - $110,000",
+        "job_description": "We are looking for a marketing specialist to drive...",
+        "job_responsibility": "Develop marketing strategies and campaigns...",
+        "educational_requirements": "Bachelor's or higher degree in Marketing, Business or related field",
+        "experiences": "At least 3 years of experience in marketing",
+        "contact_information": {
+            "phone": "999-999-9999",
+            "email": "jobs@tesla.com"
+        }
+    }
+]
