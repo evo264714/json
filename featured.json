@@ -1,7 +1,7 @@
 [
       {
         "id": 1,
-        "company_logo": "/public/assets/Logo/google-1-1 1-1.png",
+        "company_logo": "/assets/Logo/google-1-1 1-1.png",
         "job_title": "Software Engineer",
         "company_name": "Google",
         "remote_or_onsite": "Remote",
